@@ -1,5 +1,7 @@
 # UI Plugins
 
+[![Build Status](https://api.travis-ci.org/cdleon/ui-plugins.svg?branch=master)](https://travis-ci.org/cdleon/ui-plugins)
+
 ## CSS
 
 - **Animations & Effects**
